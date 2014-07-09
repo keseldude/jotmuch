@@ -26,7 +26,7 @@ PNGVIEW = 'feh'
 URLSNAP = 'urlsnap'
 
 HMAC_KEY = 'Jotmuch'
-EDITOR = os.environ.get('EDITOR', 'vim')
+EDITOR = os.environ.get('EDITOR', 'vi')
 
 # http://xapian.org/docs/omega/termprefixes.html
 boolean_prefix = {
